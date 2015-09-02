@@ -67,7 +67,7 @@ function uiPopover($timeout, $document) {
 }
 
 angular
-    .module('blocks.ui-popover')
+    .module('angular-ui-components')
     .provider('$uiPopover', uiPopoverProvider);
 
 function uiPopoverProvider() {
