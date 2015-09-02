@@ -1,0 +1,21 @@
+{
+  "name": "angular-ui-components",
+  "version": "0.0.1",
+  "homepage": "https://github.com/olivierandriessen/angular-ui-components",
+  "authors": [
+    "Olivier Andriessen <olivierandriessen@gmail.com>"
+  ],
+  "main": [
+    "build/angular-ui-components.js",
+    "build/angular-ui-components.min.js"
+  ],
+  "description": "Angular UI Components",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
