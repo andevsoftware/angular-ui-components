@@ -5,11 +5,17 @@
   "authors": [
     "Olivier Andriessen <olivierandriessen@gmail.com>"
   ],
+  "description": "Angular UI Components",
   "main": [
     "build/angular-ui-components.js",
     "build/angular-ui-components.min.js"
   ],
-  "description": "Angular UI Components",
+  "dependencies": {
+  },
+  "keywords": [
+    "angular",
+    "angular-ui-components"
+  ],
   "license": "MIT",
   "ignore": [
     "**/.*",
