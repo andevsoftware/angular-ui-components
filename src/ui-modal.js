@@ -63,7 +63,7 @@ function uiModal($timeout, $document) {
 }
 
 angular
-    .module('blocks.ui-modal')
+    .module('angular-ui-components')
     .provider('$uiModal', uiModalProvider);
 
 function uiModalProvider() {
